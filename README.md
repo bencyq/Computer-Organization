@@ -1,1 +1,3 @@
-# computer-organization
+# 计算机组成原理
+
+这里是计算机组成原理的知识点整理
